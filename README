@@ -1,0 +1,17 @@
+shipxb11 - a space shooter game. This is a work in progress. Or it might be finished.
+
+To build
+========
+mkdir build
+cd build
+cmake -DCMAKE_BUILD_TYPE=RELEASE ..
+make
+
+To install
+==========
+On Linux and similar: su -c "make install"
+On Windows, as admin, make install
+
+
+Font from https://karenbjones.com
+Most graphics from https://opengameart.org/content/spaceship-set-32x32px
