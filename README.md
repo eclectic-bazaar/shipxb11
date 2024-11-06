@@ -27,4 +27,4 @@ Font from https://karenbjones.com
 
 Most graphics from https://opengameart.org/content/spaceship-set-32x32px
 
-![shipxb11](https://raw.githubusercontent.com/bit-sorter/shipxb11/master/shipxb11.png)
+![shipxb11](https://github.com/eclectic-bazaar/shipxb11/blob/main/shipxb11.png)
